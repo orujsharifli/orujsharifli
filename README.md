@@ -12,7 +12,7 @@ I'm **Oruj Sharifli** (he/him). I am someone who likes his work towards Front-en
 ## 📫 How to reach me?
 
 * 🔗 I have a personal website at [www.orujsharifli.com](https://www.orujsharifli.com) where all my social networks are located! You can reach me anywhere over there!
-* [(https://user-images.githubusercontent.com/81763214/207000286-4463d7a5-576a-4432-aa2d-cf94b1a4a83b.png)]
+* [![Linkedin: orujsharifli](https://user-images.githubusercontent.com/81763214/207000286-4463d7a5-576a-4432-aa2d-cf94b1a4a83b.png)](https://www.linkedin.com/in/oruj-sharifli-1b6a81200/)
 * 📹 [Subscribe to my Youtube channel](https://www.youtube.com/channel/UCXYs_tVa-VFm5f6bWrPybhA?sub_confirmation=1)
 
 ## 👋 If you need some advices or mentorship
