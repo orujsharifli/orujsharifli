@@ -20,8 +20,6 @@ I'm **Oruj Sharifli** (he/him). I am someone who likes his work towards Front-en
 Before coding, one of my passion is connecting with people. That's why I regularly offer 1-2 hours of mentorship for whoever needs some advices and guidance.
 Don't be surprised, it's just what I love doing!
 
-👉 **Feel free to request an appointement on [ADPlist](https://ddias.run/adp)**
-
 ## 🎙 Latest podcast episodes
 ### Erreur 200 (in French)
 
