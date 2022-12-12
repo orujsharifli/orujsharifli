@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 [![Twitter Follow](https://img.shields.io/twitter/follow/thedaviddias?label=Follow)](https://twitter.com/thedaviddias)
 [![Linkedin: orujsharifli](https://user-images.githubusercontent.com/81763214/207000286-4463d7a5-576a-4432-aa2d-cf94b1a4a83b.png)](https://www.linkedin.com/in/oruj-sharifli-1b6a81200/)
 
-I'm **Oruj Sharifli** (he/him). am someone who likes his work towards Front-end programming field, is responsible and keeps the deadline for project submission. I finished the "[IT BRAINS Academy](https://itbrains.edu.az/)" programming course with a gold diploma. The codes I write follow extremely clean code standards and are suitable for any device. I also had an internship at "[Proton LLC](https://proton.az/)" and participated as a developer in "[PASHA Life Challenge](https://www.pashahackathon.az/)". Having worked on many real projects, I have organized projects for some companies and personal use. Currently, I work as a mentor in the "[Software Village](https://www.softwarevillage.net/)" course. I am also the CEO&Founder of "[Neizu Academy](https://www.neizuacademy.com/)"
+I'm **Oruj Sharifli** (he/him). am someone who likes his work towards Front-end programming field, is responsible and keeps the deadline for project submission. I finished the "[IT BRAINS Academy](https://itbrains.edu.az/)" programming course with a gold diploma. The codes I write follow extremely clean code standards and are suitable for any device. I also had an internship at "[Proton LLC](https://proton.az/)" and participated as a developer in "[PASHA Life Challenge](https://www.pashahackathon.az/)". Having worked on many real projects, I have organized projects for some companies and personal use. Currently, I work as a mentor in the "[Software Village](https://www.softwarevillage.net/)" course. I am also the founder of "[Neizu Academy](https://www.neizuacademy.com/)"
 
 I'm always trying to find new guests for the podcast [World Web Stories](https://worldwebstories.com/), feel free to [ask to be a guest](https://worldwebstories.com/be-a-guest/)!
 
@@ -34,7 +34,7 @@ Don't be surprised, it's just what I love doing!
 <!-- ERREUR200:END -->
 ## 📝  Latest Blog Posts
 
-These are my latest posts on [my blog](https://thedaviddias.dev?utm_source=github&utm_medium=profile_readme&utm_campaign=fixed_link) and [Medium](https://ddias.run/medium). I also write on [Dev.to](https://ddias.run/devto):
+These are my blogs in azerbaijani on [Medium](https://medium.com/):
 
 ### My Blog
 
