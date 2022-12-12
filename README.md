@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 
 I'm **Oruj Sharifli** (he/him). I am someone who likes his work towards Front-end programming field, is responsible and keeps the deadline for project submission. I finished the "[IT BRAINS Academy](https://itbrains.edu.az/)" programming course with a gold diploma. The codes I write follow extremely clean code standards and are suitable for any device. I also had an internship at "[Proton LLC](https://proton.az/)" and participated as a developer in "[PASHA Life Challenge](https://www.pashahackathon.az/)". Having worked on many real projects, I have organized projects for some companies and personal use. Currently, I work as a mentor in the "[Software Village](https://www.softwarevillage.net/)" course. I am also the founder of "[Neizu Academy](https://www.neizuacademy.com/)".
 
-## 📫 How to reach me
+## 📫 How to reach me?
 
 * 🔗 I have a personal website at [www.orujsharifli.com](https://www.orujsharifli.com) where all my social networks are located! You can reach me anywhere over there!
 * 💬 [Whatsapp](https://wa.me/994504566139)
