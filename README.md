@@ -21,8 +21,8 @@ I'm always trying to find new guests for the podcast [World Web Stories](https:/
 
 ## 📫 How to reach me
 
-* 🔗 I have a personal website at [https://thedaviddias.dev](https://thedaviddias.dev?utm_source=github&utm_medium=profile_readme&utm_campaign=fixed_link) where all my social networks are located! You can reach me anywhere over there!
-* 💬 [Telegram](https://t.me/thedaviddias)
+* 🔗 I have a personal website at [https://thedaviddias.dev](https://www.orujsharifli.com) where all my social networks are located! You can reach me anywhere over there!
+* 💬 [Whatsapp](https://wa.me/994504566139)
 * 📹 [Subscribe to my Youtube channel](https://www.youtube.com/channel/UCXYs_tVa-VFm5f6bWrPybhA?sub_confirmation=1)
 
 ## 👋 If you need some advices or mentorship
