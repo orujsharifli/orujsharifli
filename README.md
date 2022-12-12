@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 [![Linkedin: orujsharifli](![oruj_linkedin](https://user-images.githubusercontent.com/81763214/206985085-2bf427f5-43ff-478c-948f-da72ad24a5c2.svg)
 )](https://www.linkedin.com/in/oruj-sharifli-1b6a81200/)
 
-I'm **David Dias** (he/him). am someone who likes his work towards Front-end programming field, is responsible and keeps the deadline for project submission. I finished the ["IT BRAINS Academy"](https://itbrains.edu.az/) programming course with a gold diploma. I'm also an accessibility advocate ([CPACC](https://www.accessibilityassociation.org/s/certified-professional) certified)! I'm always working on a new project to help the community.
+I'm **David Dias** (he/him). am someone who likes his work towards Front-end programming field, is responsible and keeps the deadline for project submission. I finished the "[IT BRAINS Academy](https://itbrains.edu.az/)" programming course with a gold diploma. I'm also an accessibility advocate ([CPACC](https://www.accessibilityassociation.org/s/certified-professional) certified)! I'm always working on a new project to help the community.
 
 I'm always trying to find new guests for the podcast [World Web Stories](https://worldwebstories.com/), feel free to [ask to be a guest](https://worldwebstories.com/be-a-guest/)!
 
