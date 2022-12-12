@@ -12,8 +12,8 @@ I'm **Oruj Sharifli** (he/him). I am someone who likes his work towards Front-en
 ## 📫 How to reach me?
 
 * 🔗 I have a personal website at [www.orujsharifli.com](https://www.orujsharifli.com) where all my social networks are located! You can reach me anywhere over there!
-* 💬 [Whatsapp me](https://wa.me/994504566139)
-* 📨 [Mail me](mailto:orujsharifli.com)
+* 💬 [Whatsapp me - +994504566139](https://wa.me/994504566139)
+* 📨 [Mail - orujsharifli@gmail.com](mailto:orujsharifli.com)
 
 ## 👋 If you need some advices or mentorship
 
