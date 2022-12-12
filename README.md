@@ -32,8 +32,6 @@ Don't be surprised, it's just what I love doing!
 
 These are my blogs in azerbaijani on [Medium](https://medium.com/):
 
-### Medium
-
 <!-- MEDIUM:START -->
 - [What is web programming?](https://medium.com/@orujsharifli/veb-proqramla%C5%9Fd%C4%B1rma-n%C9%99dir-e2909ff7163)
 - [Overview of websites](https://medium.com/@orujsharifli/veb-saytlara-%C3%BCmumi-bax%C4%B1%C5%9F-8be5b04fcb75)
