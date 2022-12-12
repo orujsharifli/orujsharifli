@@ -10,8 +10,7 @@ orujsharifli/orujsharifli is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-# Hi there, I'm David Dias! 🇫🇷 🇵🇹 🇧🇷 🇲🇺 📍 Now living in 🇨🇦
-
+# Hi there, I'm Oruj Sharifli! 👀
 [![Twitter Follow](https://img.shields.io/twitter/follow/thedaviddias?label=Follow)](https://twitter.com/thedaviddias)
 [![Linkedin: thedaviddias](https://img.shields.io/badge/-David%20Dias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thedaviddias/)](https://www.linkedin.com/in/thedaviddias/)
 
