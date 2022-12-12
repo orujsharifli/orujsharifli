@@ -20,14 +20,6 @@ I'm **Oruj Sharifli** (he/him). I am someone who likes his work towards Front-en
 Before coding, one of my passion is connecting with people. That's why I regularly offer 1-2 hours of mentorship for whoever needs some advices and guidance.
 Don't be surprised, it's just what I love doing!
 
-## 🎙 Latest podcast episodes
-### Erreur 200 (in French)
-
-<!-- ERREUR200:START -->
-- [Questions de débutants en développement web avec Killian Vaillant](https://erreur200.com/questions-de-debutants-en-developpement-web-avec-killian-vaillant)
-- [Les Tendances du Développement Web en 2022](https://erreur200.com/les-tendances-du-developpement-web-en-2022)
-- [La Communication Dans Le Monde Du Web](https://erreur200.com/la-communication-dans-le-monde-du-web)
-<!-- ERREUR200:END -->
 ## 📝  Latest Blog Posts
 
 These are my blogs in azerbaijani on [Medium](https://medium.com/):
