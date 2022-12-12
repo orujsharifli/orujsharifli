@@ -12,8 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 # Hi there, I'm Oruj Sharifli! 👀
 [![Twitter Follow](https://img.shields.io/twitter/follow/thedaviddias?label=Follow)](https://twitter.com/thedaviddias)
-[![Linkedin: orujsharifli](![oruj_linkedin](https://user-images.githubusercontent.com/81763214/206984506-4b271648-33d0-4835-b3a2-30b77c03ff75.jpg)
-)](https://www.linkedin.com/in/oruj-sharifli-1b6a81200/)
+[![Linkedin: orujsharifli](https://user-images.githubusercontent.com/81763214/206984506-4b271648-33d0-4835-b3a2-30b77c03ff75.jpg)](https://www.linkedin.com/in/oruj-sharifli-1b6a81200/)
 
 I'm **David Dias** (he/him). I'm a Front-End Software Engineer by passion and an expat by choice living now in Toronto, Canada. I created the [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist) in 2017 and have been passionate about open-source since. I'm also an accessibility advocate ([CPACC](https://www.accessibilityassociation.org/s/certified-professional) certified)! I'm always working on a new project to help the community.
 
