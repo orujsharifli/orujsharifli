@@ -1,31 +1,18 @@
-<!---
-orujsharifli/orujsharifli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 💫 About Me:
+🔭 I’m currently working as a Front-end mentor.<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
-# Hi there, I'm Oruj Sharifli! 👀
-[![Facebook: orujsharifli](https://user-images.githubusercontent.com/81763214/207019386-b985e093-9063-40d5-825c-d912be1308ec.svg)](https://www.facebook.com/orujsharifli/)
-[![Linkedin: orujsharifli](https://user-images.githubusercontent.com/81763214/207000286-4463d7a5-576a-4432-aa2d-cf94b1a4a83b.png)](https://www.linkedin.com/in/oruj-sharifli-1b6a81200/)
 
-I'm **Oruj Sharifli** (he/him). I am someone who likes his work towards Front-end programming field, is responsible and keeps the deadline for project submission. I finished the [IT BRAINS Academy](https://itbrains.edu.az/) programming course with a gold diploma. The codes I write follow extremely clean code standards and are suitable for any device. I also had an internship at [Proton LLC](https://proton.az/) and participated as a developer in [PASHA Life Challenge](https://www.pashahackathon.az/). Having worked on many real projects, I have organized projects for some companies and personal use. Currently, I work as a mentor in the [Software Village](https://www.softwarevillage.net/) course. I am also the founder of [Neizu Academy](https://www.neizuacademy.com/).
+## 🌐 Socials:
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/orujsharifli) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/orujsharifli) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/orujsharifli) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/orujsharifli) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@orujsharifli) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@orujsharifli) 
 
-## 📫 How to reach me?
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=orujsharifli&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=orujsharifli&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=orujsharifli&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-* 🔗 I have a personal website at [www.orujsharifli.com](https://www.orujsharifli.com) where all my social networks are located! You can reach me anywhere over there!
-* 💬 [Text me on Whatsapp](https://wa.me/994504566139)
-* 📨 [Write email for me](mailto:orujsharifli.com)
+---
+[![](https://visitcount.itsvg.in/api?id=orujsharifli&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 👋 If you need some advices or mentorship
-
-Before coding, one of my passion is connecting with people. That's why I regularly offer 1-2 hours of mentorship for whoever needs some advices and guidance.
-Don't be surprised, it's just what I love doing!
-
-## 📝  Latest Blog Posts
-
-These are my blogs in azerbaijani on [Medium](https://medium.com/):
-
-<!-- MEDIUM:START -->
-- [What is web programming?](https://medium.com/@orujsharifli/veb-proqramla%C5%9Fd%C4%B1rma-n%C9%99dir-e2909ff7163)
-- [Overview of websites](https://medium.com/@orujsharifli/veb-saytlara-%C3%BCmumi-bax%C4%B1%C5%9F-8be5b04fcb75)
-- [What is HTML?](https://medium.com/@orujsharifli/html-n%C9%99dir-90c4fc9b848d)
-<!-- MEDIUM:END -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
